@@ -3,3 +3,5 @@ node_modules
 .env.*
 # IDE files
 .vscode/
+
+.neon_local/
