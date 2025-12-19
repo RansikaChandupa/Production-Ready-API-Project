@@ -27,7 +27,7 @@ A production-ready RESTful API built with Node.js and Express, implementing secu
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/RansikaChandupa/acquisitions.git
+   git clone https://github.com/RansikaChandupa/Production-Ready-API-Project
    cd acquisitions
    ```
 
